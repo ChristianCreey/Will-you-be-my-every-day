@@ -1,5 +1,6 @@
 # Will-you-be-my-every-day
-## so that you are not rejected
+## So that you are not rejected
+## Will you be my valentine?
 
 # Demo
 Github Pages : 
